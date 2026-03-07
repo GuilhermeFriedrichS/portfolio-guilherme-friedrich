@@ -330,7 +330,7 @@ function App() {
                 <Button size="lg" variant="outline" className="border-cyan-500/30 hover:bg-cyan-500/10" asChild>
                   <a href="/Currículo Guilherme Friedrich Sousa.pdf" download>
                     <Download className="w-4 h-4 mr-2" />
-                    Download CV
+                    Baixar Currículo
                   </a>
                 </Button>
               </div>
